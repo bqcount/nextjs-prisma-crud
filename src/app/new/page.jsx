@@ -1,7 +1,7 @@
 
 function NewPage() {
   return (
-    <div>Formulario de tareas</div>
+    <div>Formulario de tareas por hacer </div>
   )
 }
 
